@@ -1,1 +1,57 @@
-/* Write your CSS here! */
+
+body {
+  background-color: ivory;
+
+}
+header {
+  text-align: center;
+}
+img {
+  max-width: 50%;
+  align-content: center;
+}
+
+ #mainHeading{
+color: red;
+text-align: center;
+
+}
+
+.funParagraph {
+  color:green;
+}
+
+body {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 16px
+
+}
+
+#logo {
+  max-width: 10%;
+  height: auto;
+}
+
+footer {
+  text-align: center;
+  background: ivory url("images/_DSC5084.jpg") no-repeat fixed center;
+  padding-block: 1em;
+  vertical-align: middle;
+}
+
+
+h2 {
+  text-align: center;
+}
+
+
+p {
+  text-align: center;
+}
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
